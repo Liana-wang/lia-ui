@@ -1,0 +1,6 @@
+.eslintignore
+lib/*
+es/*
+dist/*
+tsconfig.json
+**/*.js

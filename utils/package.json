@@ -1,0 +1,6 @@
+{
+  "name": "lia-ui/utils",
+  "private": true,
+  "main": "../lib/utils/index.js",
+  "module": "../es/utils/index.js"
+}
